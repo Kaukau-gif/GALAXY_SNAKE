@@ -1,0 +1,5 @@
+la;430
+Jogador;340
+Jogador;310
+Kau;90
+Kau;90
