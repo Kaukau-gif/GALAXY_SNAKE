@@ -1,0 +1,7 @@
+# Executáveis gerados pela compilação
+*.exe
+*.o
+*.obj
+
+# Ranking local de cada jogador
+ranking.txt
